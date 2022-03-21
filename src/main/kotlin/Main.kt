@@ -14,8 +14,8 @@ fun modulus(x:Int, y:Int){
     println(modulus)
 }
 
-fun sum (w:Int, x:Int, y:Int, z:Int){
-    var sum = w + x + y + z
+fun sum (a:Int, s:Int, d:Int, f:Int){
+    var sum = a + s + d + f
     println(sum)
 }
 
